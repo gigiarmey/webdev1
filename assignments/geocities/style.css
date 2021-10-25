@@ -1,0 +1,77 @@
+
+
+body {
+  
+    background-image: url("https://web.archive.org/web/20090802054411/http://www.geocities.com/Heartland/Fields/2641/friendsclouds.gif");
+    background-size: cover;
+    
+}
+
+h1 {
+    font-family: 'Noto Serif JP', serif;
+    text-align: center;
+    font-size: 75px;
+    color: white;
+   
+}
+
+h2 {
+    font-family: 'Pangolin', cursive;
+    text-align: center;
+    color: white;
+}
+
+
+img {
+   height: 100px;
+   width: 100px;
+}
+
+body .hamster {
+    height: 250px;
+    width: 250px;
+}
+
+h3 {
+    font-family: 'Hachi Maru Pop', cursive;
+    width: 50rem;
+    height: 15rem;
+    border: .25em solid purple;
+    background: white;
+    text-align: center;
+    color: plum;
+    font-weight: 400px;
+
+}
+
+.box {
+    background-image: url("https://web.archive.org/web/20091027083922/http://hk.geocities.com/super_anpanmanhk/anpanman-003.gif");
+    background-repeat: repeat-x;
+    width: 150rem;
+    height: 10rem;
+
+}
+
+.side {
+    background-image: url("https://web.archive.org/web/20091027093454/http://geocities.com/shadowsailorneptune/main_bar.gif");
+    background-repeat: no-repeat;
+    width: 100rem;
+    height:100rem;
+    margin-top: -55rem;
+    position:fixed;
+}
+
+footer {
+    font-family: 'Hachi Maru Pop', cursive;
+    text-align:center;
+}
+
+.rect {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wallpapersin4k.org%2Fwp-content%2Fuploads%2F2017%2F04%2FShin-Chan-Wallpapers-6.jpg&f=1&nofb=1");
+    width: 45rem;
+    height: 30rem;
+    position: absolute;
+    margin-left: 95rem;
+    margin-top: -50rem;
+}
+
