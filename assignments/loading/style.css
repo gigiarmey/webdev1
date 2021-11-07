@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+    font-size: 5rem;
+    color:rgb(26, 46, 27)
+}
+nav{
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+    font-size: 2rem;
+}
+
+nav a{
+    color: rgb(46, 75, 48)
+}
+
+nav a:hover {
+    color:rgb(135, 163, 142);
+}
